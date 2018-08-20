@@ -12,6 +12,7 @@ Python code to implement zooming of images using Python and OpenCV.
  A  zoomed image of the same size as the input image.
  
  ### Example
- Input ![Input] 
+ Input ![Input](./results/original.png)
+ Output ![Output](./results/zoom.png)
  
  
