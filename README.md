@@ -16,10 +16,8 @@ Code to implement zooming of images using Python and OpenCV.
  Pivot point (x, y): (133, 72)  <br />
  Scale: 2   <br />
  Input image                                       
- ![Input](./results/original.png)                  
- 
-Output  <br />
- ![Output](./results/zoom.png)
+ ![Input](./results/original.png)    ![Output](./results/zoom.png)              
+
  
  ### Execution
  To execute the code to zoom an image with given pivot coordinates and scale, run the following command:
