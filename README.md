@@ -45,7 +45,10 @@ parameters.<br / >
    
 ### Results
 
- ![Input](./results/original4.jpeg)  (./results/zoom4jpg) <br />
+ ![Input](./results/original4.jpeg) ![](./results/zoom4jpg) <br />
+ ![Input](./results/original5.jpeg) ![](./results/zoom5.jpg) <br />
+ ![Input](./results/original6.jpeg) ![](./results/zoom6.jpg) <br />
+ ![Input](./results/original2.png) ![](./results/zoom2jpg) <br />
  
  
    
