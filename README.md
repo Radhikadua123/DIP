@@ -1,7 +1,7 @@
 # Digital image processing
 
 ## Zooming of images
-Python code to implement zooming of images using Python and OpenCV.
+Code to implement zooming of images using Python and OpenCV.
 
 ### Input
 * Path of the image.
@@ -24,4 +24,4 @@ Python code to implement zooming of images using Python and OpenCV.
  ### Execution
  To execute the code to zoom an image with given pivot coordinates and scale, run the following command:
  
- python zoom.py<parameter1><parameter2><parameter3><parameter4>
+python zooom.py  -i "Image_path" -p x,y -s 2
