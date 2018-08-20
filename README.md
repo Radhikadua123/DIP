@@ -15,10 +15,10 @@ Code to implement zooming of images using Python and OpenCV.
  #### Input
  Pivot point (x, y): (133, 72)  <br />
  Scale: 2   <br />
- Input image <br />
- ![Input](./results/original.png)  <br />
+ Input image                                              Output 
+ ![Input](./results/original.png)                   ![Output](./results/zoom.png) <br />
  
- Output  <br />
+Output  <br />
  ![Output](./results/zoom.png)
  
  ### Execution
@@ -42,6 +42,13 @@ parameters.<br / >
      i. Copy the pixel value row wise <br />
     ii. Copy the pixel value column wise <br />
    iii. Copy the pixel value diagonal wise <br />
+   
+### Results
+Input image <br />
+ ![Input](./results/original4.jpeg)  <br />
+ 
+ Output  <br />
+ ![Output](./results/zoom4jpg)
    
    
    *
